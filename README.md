@@ -1,2 +1,0 @@
-# test ciberseguridad
-practica cier
